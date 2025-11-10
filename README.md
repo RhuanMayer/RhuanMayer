@@ -39,4 +39,4 @@
   </div>
 
 ##
-<img src="https://raw.githubusercontent.com/RhuanMayer/RhuanMayer/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/RhuanMayer/RhuanMayer/blob/output/github-snake-dark.svg)
