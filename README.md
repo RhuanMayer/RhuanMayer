@@ -6,12 +6,16 @@
     
 <h2 align="left">Ola eu sou o Rhuan Mayer, desenvolvedor Salesforce & WEB!</h2>
 
+###
 <!-- Dropdown -->
 <details>
+  <br>
   <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Eu tenho 22 anos, atualmente moro no Brasil. Tenho experiencia em Salesforce, React, Integrações (Rest & Soap).
 </details>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rhuan-mayer-668b91266/" target="_blank">
