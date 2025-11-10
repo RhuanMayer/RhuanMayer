@@ -1,8 +1,23 @@
-<p align="left">Ola eu sou o Rhuan Mayer, desenvolvedor Salesforce & WEB!</p>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"><h1>&lt;h1&gt;Hello World!!&lt;/h1&gt;</h1></h1></summary>
+</div>
+    
+<h2 align="left">Ola eu sou o Rhuan Mayer, desenvolvedor Salesforce & WEB!</h2>
 
-###
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-<img src="https://raw.githubusercontent.com/RhuanMayer/RhuanMayer/output/snake.svg" alt="Snake animation" />
+  - 💬 Eu tenho 22 anos, atualmente moro no Brasil. Tenho experiencia em Salesforce, React, Integrações (Rest & Soap).
+</details>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rhuan-mayer-668b91266/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ## Skills
 <!-- Skills: Programming Languages -->
@@ -18,17 +33,10 @@
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Tools</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg"/>
   </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rhuan-mayer-668b91266/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+##
+<img src="https://raw.githubusercontent.com/RhuanMayer/RhuanMayer/output/snake.svg" alt="Snake animation" />
