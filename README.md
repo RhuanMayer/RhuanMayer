@@ -1,7 +1,6 @@
 <!--título-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block"><h1>&lt;h1&gt;Hello World!!&lt;/h1&gt;</h1></h1></summary>
+ 
 </div>
     
 <h2 align="left">Ola eu sou o Rhuan Mayer, desenvolvedor Salesforce & WEB!</h2>
