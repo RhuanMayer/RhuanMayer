@@ -9,10 +9,6 @@
 ###
 <!-- Dropdown -->
 <details>
-  <br>
-  <summary>👨‍💻 Mais sobre mim</summary>
-
-  - 💬 Eu tenho 22 anos, atualmente moro no Brasil. Tenho experiencia em Salesforce, React, Integrações (Rest & Soap).
 </details>
 
 ###
